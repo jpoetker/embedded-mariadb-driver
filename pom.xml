@@ -6,7 +6,7 @@
 
     <groupId>com.github.jpoetker</groupId>
     <artifactId>embedded-mariadb-driver</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <url>https://github.com/jpoetker/embedded-mariadb-driver</url>
     <scm>
